@@ -1,24 +1,21 @@
 const data = {
     info: {
-        name: 'Maniruzzaman Akash',
-        short_description: 'Hi, I\'m Maniruzzaman Akash.',
-        image_url: 'https://akash.devsenv.com/api/public/images/profile/profile.png',
-        description: "<h3>I'm a full stack web developer experiencing more than 4+ years with <br><code>PHP</code>, <code>Laravel</code>, <code>JavaScript</code>, <code>Vue Js</code>, <code>React Js</code>, <code>React Native</code> <br>and many more..</h3>",
-        phone_no: '+8801951233084',
-        email: 'manirujjamanakash@gmail.com',
+        name: 'Vijayakumar J',
+        short_description: 'Hi, I\'m Vijayakumar J.',
+        image_url: 'https://gdurl.com/lF0C',
+        description: "<h3>I'm a full stack web developer experiencing more than 7+ years with <br><code>Java</code>, <code>JavaScript</code>, <code>SpringBoot</code>, <code>React Js</code>, <code>AWS</code> <br>and many more..</h3>",
+        phone_no: '+91 9585793939',
+        email: 'idforvijayakumar@gmail.com',
     },
 
     social: {
-        facebook: 'https://www.facebook.com/maniruzzaman.akash',
-        twitter: 'https://twitter.com/ManiruzzamanAk',
-        github: 'https://github.com/ManiruzzamanAkash',
-        linkedin: 'https://www.linkedin.com/in/maniruzzamanakash',
+        github: 'https://github.com/vjaab',
+        linkedin: 'https://www.linkedin.com/in/vijayakumar-j',
     },
 
     portfolioCategories: [
         'Web Design',
-        'Web Development',
-        'App Development',
+        'Web Development'
     ],
 
     portfolios: [

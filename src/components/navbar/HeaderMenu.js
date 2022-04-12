@@ -9,7 +9,7 @@ const HeaderMenu = () => {
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
                 <Container>
                     <Navbar.Brand href="/">
-                        <Link to="/">Akash</Link>
+                        <Link to="/">Vijay</Link>
                     </Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
