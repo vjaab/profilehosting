@@ -28,7 +28,7 @@ const Portfolio = () => {
                     portfolios.length > 0 && portfolios.map((portfolio,index) => (
                         <div key={index} className="col-md-3 mb-4">
                             <div className="card card body">
-                                <img src={portfolio.image} className="img img-responsive" />
+                                <img src={portfolio.image} className="img img-responsive" alt=""/>
                                 <br />
                                 <h3 className="text-primary p-4 text-center portfolio-title">{portfolio.title}</h3>
                                 <p className="text-center"><span className={'badge bg-info'}>{portfolio.category}</span></p>
